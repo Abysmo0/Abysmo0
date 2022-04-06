@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abysmo0
 - 👀 I’m interested in designing venues for games.
 - 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on some simple 2d games.
+- 💞️ I’m looking to collaborate on some simple 2d/3d games.
 - 📫 How to reach me barbarosaydin@gmail.com
 
 <!---
